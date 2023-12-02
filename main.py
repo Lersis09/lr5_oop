@@ -5,8 +5,8 @@ from task2 import Task2Window
 
 # словник для швидкого доступу до відповідної функції виконання
 task_window_dict = {
-    "1": (Task1Window, "Lab5_1-320-v01-Ivanov-Ivan", "300x200"),
-    "2": (Task2Window, "Lab5_2-320-v01-Ivanov-Ivan", "600x300")
+    "1": (Task1Window, "Lab5_1-320-v19-Chervatiuk-Valeria", "300x200"),
+    "2": (Task2Window, "Lab5_2-320-v07-Chervatiuk-Valeria", "600x300")
 }
 
 
