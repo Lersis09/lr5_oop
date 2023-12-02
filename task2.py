@@ -55,8 +55,8 @@ class Task2Window(tkinter.Frame):
             messagebox.showerror("Data ERROR", "N must be integer that >= 20!")
         else:
             # Параметри виразу
-            K = 2.5
-            T = 0.3
+            K = 0.8
+            T = 1.5
             T0 = 2*T/N
             U = 2
             x = [0]
